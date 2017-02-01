@@ -1,14 +1,14 @@
 <?php
 // connection string
-$dsn = 'mysql:host=localhost;dbname=gamedb';
-$userName = 'dasha';
-$password = '12345';
+$dsn = 'mysql://s969adv5fd5oyr79:gvwp5mzeiarwhaa6@ryvdxs57afyjk41z.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/g98f1x54cht5g0ms';
+$userName = 's969adv5fd5oyr79';
+$password = 'gvwp5mzeiarwhaa6';
 
 // exception handling - use a try / catch
 try {
     // instantiates a new pdo - an db object
     $db = new PDO($dsn, $userName, $password);
-    
+
 }
 catch(PDOException $e) {
     $message = $e->getMessage();
