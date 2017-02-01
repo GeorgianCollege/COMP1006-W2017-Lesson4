@@ -32,10 +32,10 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+            <state relative-caret-position="29">
+              <caret line="2" column="100" lean-forward="false" selection-start-line="2" selection-start-column="100" selection-end-line="2" selection-end-column="100" />
               <folding>
-                <marker date="1485987538814" expanded="true" signature="442:461" ph="SELECT * FRO... games" />
+                <marker date="1485988467745" expanded="true" signature="452:471" ph="SELECT * FRO... games" />
               </folding>
             </state>
           </provider>
@@ -170,7 +170,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1485981480872</updated>
-      <workItem from="1485981483202" duration="2334000" />
+      <workItem from="1485981483202" duration="2973000" />
     </task>
     <task id="LOCAL-00001" summary="updated credentials for JawsDB">
       <created>1485985482221</created>
@@ -179,11 +179,18 @@
       <option name="project" value="LOCAL" />
       <updated>1485985482221</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="updated credentials for  JawsDB again">
+      <created>1485987561437</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1485987561437</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2334000" />
+    <option name="totallyTimeSpent" value="2973000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -227,7 +234,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updated credentials for JawsDB" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated credentials for JawsDB" />
+    <MESSAGE value="updated credentials for  JawsDB again" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated credentials for  JawsDB again" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -244,10 +252,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        <state relative-caret-position="29">
+          <caret line="2" column="100" lean-forward="false" selection-start-line="2" selection-start-column="100" selection-end-line="2" selection-end-column="100" />
           <folding>
-            <marker date="1485987538814" expanded="true" signature="442:461" ph="SELECT * FRO... games" />
+            <marker date="1485988467745" expanded="true" signature="452:471" ph="SELECT * FRO... games" />
           </folding>
         </state>
       </provider>

@@ -1,6 +1,6 @@
 <?php
 // connection string
-$dsn = 'mysql:host=ryvdxs57afyjk41z.cbetxkdyhwsb.us-east-1.rds.amazonaws.com;dbname=gamedb';
+$dsn = 'mysql:host=ryvdxs57afyjk41z.cbetxkdyhwsb.us-east-1.rds.amazonaws.com;dbname=g98f1x54cht5g0ms';
 $userName = 's969adv5fd5oyr79';
 $password = 'gvwp5mzeiarwhaa6';
 
