@@ -32,10 +32,10 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="35" column="22" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+            <state relative-caret-position="87">
+              <caret line="3" column="75" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="75" />
               <folding>
-                <marker date="1485989574652" expanded="true" signature="1634:1653" ph="SELECT * FRO... games" />
+                <marker date="1485991053145" expanded="true" signature="454:473" ph="SELECT * FRO... games" />
               </folding>
             </state>
           </provider>
@@ -170,7 +170,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1485981480872</updated>
-      <workItem from="1485981483202" duration="3711000" />
+      <workItem from="1485981483202" duration="4600000" />
     </task>
     <task id="LOCAL-00001" summary="updated credentials for JawsDB">
       <created>1485985482221</created>
@@ -193,11 +193,18 @@
       <option name="project" value="LOCAL" />
       <updated>1485988493247</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Changed Connection Info for MS Azure">
+      <created>1485989599535</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1485989599535</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3711000" />
+    <option name="totallyTimeSpent" value="4600000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -243,7 +250,8 @@
     <MESSAGE value="updated credentials for JawsDB" />
     <MESSAGE value="updated credentials for  JawsDB again" />
     <MESSAGE value="changed DB Name to match JawsDB" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed DB Name to match JawsDB" />
+    <MESSAGE value="Changed Connection Info for MS Azure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed Connection Info for MS Azure" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -260,10 +268,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="35" column="22" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+        <state relative-caret-position="87">
+          <caret line="3" column="75" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="75" />
           <folding>
-            <marker date="1485989574652" expanded="true" signature="1634:1653" ph="SELECT * FRO... games" />
+            <marker date="1485991053145" expanded="true" signature="454:473" ph="SELECT * FRO... games" />
           </folding>
         </state>
       </provider>
