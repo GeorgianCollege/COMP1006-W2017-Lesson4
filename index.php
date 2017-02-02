@@ -1,7 +1,7 @@
 <?php
 // connection string
 
-$dsn = 'mysql:host=ca-cdbr-azure-central-a.cloudapp.net;dbname=g98f1x54cht5g0ms';
+$dsn = 'mysql:host=ca-cdbr-azure-central-a.cloudapp.net;dbname=videogamesdb';
 $userName = 'b6ee96bd470785';
 $password = 'dc381279';
 

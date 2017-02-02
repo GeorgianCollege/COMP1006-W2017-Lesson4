@@ -32,10 +32,17 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            <state relative-caret-position="87">
+              <caret line="3" column="75" lean-forward="false" selection-start-line="3" selection-start-column="75" selection-end-line="3" selection-end-column="75" />
               <folding>
-                <marker date="1486061204329" expanded="true" signature="423:442" ph="SELECT * FRO... games" />
+                <marker date="1486061262699" expanded="true" signature="419:438" ph="SELECT * FRO... games" />
+                <marker date="1486061262699" expanded="true" signature="712:1439" ph="..." />
+                <marker date="1486061262699" expanded="true" signature="719:1194" ph="..." />
+                <marker date="1486061262699" expanded="true" signature="1201:1439" ph="..." />
+                <marker date="1486061262699" expanded="true" signature="1225:1439" ph="..." />
+                <marker date="1486061262699" expanded="true" signature="1247:1439" ph="..." />
+                <marker date="1486061262699" expanded="true" signature="1294:1439" ph="..." />
+                <marker date="1486061262699" expanded="true" signature="1348:1439" ph="..." />
               </folding>
             </state>
           </provider>
@@ -170,7 +177,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1485981480872</updated>
-      <workItem from="1485981483202" duration="5614000" />
+      <workItem from="1485981483202" duration="5673000" />
     </task>
     <task id="LOCAL-00001" summary="updated credentials for JawsDB">
       <created>1485985482221</created>
@@ -207,11 +214,18 @@
       <option name="project" value="LOCAL" />
       <updated>1485991072421</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updated Connection String to comply with MS Azure (ClearDB)">
+      <created>1486061229592</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1486061229592</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5614000" />
+    <option name="totallyTimeSpent" value="5673000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -259,7 +273,8 @@
     <MESSAGE value="changed DB Name to match JawsDB" />
     <MESSAGE value="Changed Connection Info for MS Azure" />
     <MESSAGE value="Switched back to Heroku Connection String Details" />
-    <option name="LAST_COMMIT_MESSAGE" value="Switched back to Heroku Connection String Details" />
+    <MESSAGE value="Updated Connection String to comply with MS Azure (ClearDB)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Connection String to comply with MS Azure (ClearDB)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -276,10 +291,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        <state relative-caret-position="87">
+          <caret line="3" column="75" lean-forward="false" selection-start-line="3" selection-start-column="75" selection-end-line="3" selection-end-column="75" />
           <folding>
-            <marker date="1486061204329" expanded="true" signature="423:442" ph="SELECT * FRO... games" />
+            <marker date="1486061262699" expanded="true" signature="419:438" ph="SELECT * FRO... games" />
+            <marker date="1486061262699" expanded="true" signature="712:1439" ph="..." />
+            <marker date="1486061262699" expanded="true" signature="719:1194" ph="..." />
+            <marker date="1486061262699" expanded="true" signature="1201:1439" ph="..." />
+            <marker date="1486061262699" expanded="true" signature="1225:1439" ph="..." />
+            <marker date="1486061262699" expanded="true" signature="1247:1439" ph="..." />
+            <marker date="1486061262699" expanded="true" signature="1294:1439" ph="..." />
+            <marker date="1486061262699" expanded="true" signature="1348:1439" ph="..." />
           </folding>
         </state>
       </provider>
