@@ -1,9 +1,9 @@
 <?php
 // connection string
 
-$dsn = 'mysql:host=ryvdxs57afyjk41z.cbetxkdyhwsb.us-east-1.rds.amazonaws.com;dbname=g98f1x54cht5g0ms';
-$userName = 's969adv5fd5oyr79';
-$password = 'gvwp5mzeiarwhaa6';
+$dsn = 'mysql:host=ca-cdbr-azure-central-a.cloudapp.net;dbname=g98f1x54cht5g0ms';
+$userName = 'b6ee96bd470785';
+$password = 'dc381279';
 
 
 // exception handling - use a try / catch
